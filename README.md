@@ -1,11 +1,11 @@
 This repository contains the data used to create the SOOC 2025 Report- Wellness- Perceived Mental Health
 
-Most of the data was sourced from Statistics Canada- Canadian Community Health Survey
+Most of the data was sourced from Statistics Canada- Canadian Community Health Survey. A code that reads, filters, summarizes, compares, and plots the Statistics Canada data is added (analysis.ipynb). 
 
 Data from 2015-2022		
 How to cite: Statistics Canada. Table 13-10-0805-01  Health characteristics, two-year period estimates, census metropolitan areas and population centres		
 DOI: https://doi.org/10.25318/1310080501-eng		
-Data feom 2007-2014		
+Data from 2007-2014		
 How to cite: Statistics Canada. Table 13-10-0452-01  Health indicators, two-year period estimates		
 DOI: https://doi.org/10.25318/1310045201-eng		
 Data from 2003/2005		
@@ -34,7 +34,7 @@ Women:
 Anxiety symptoms (Spielberger State Anxiety Scale)
 Depression symptoms (Center for Epidemiological Studies)
 Perceived stress (Perceived Stress Scale)
-Time-crunch - frequency of feeling rushed, pressured or too busy (Australian Longitudinal Study)
+Time-crunch - frequency of feeling rushed, pressured, or too busy (Australian Longitudinal Study)
 Stressful life events and discrimination (Raine Stressful Events Scale)
 
 Youth:
@@ -42,7 +42,7 @@ Adolescent self-reported anxiety, attention problems, depression, hyperactivity 
 Bullying (Middle Years Development Instrument)
 School climate and belonging - comfort in their learning environment, and feeling connected and valued at their school (Middle Years Development Instrument)
 Mental health help-seeking - if they saw someone, who they saw, and whether the support was helpful (Ontario Child Health Study)
-Climate Anxiety - how worried are youth about climate change 
+Climate Anxiety - How worried are youth about climate change 
 Discrimination
 
 Self-rated happiness and life satisfaction:
